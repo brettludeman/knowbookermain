@@ -9,7 +9,7 @@ app.use(express.json());
 
 // Hotel sentences stored securely on backend
 const hotelSentences = [
-  "★ Guests wearing flip-flops or swimsuits may be asked to return in proper shoes, but otherwise the dress code is casual.",
+  "★ Guests in sandals or swimsuits may be asked to return in proper shoes, but otherwise the dress code is casual.",
   "★ There's a large mirror-lined stretch zone at the back of the gym, with two foam rollers, a Swiss ball, and yoga blocks.",
   "★ Each bedside table includes a lamp, wireless charging pad, digital clock, notepad, and pen.",
   "★ Light switches are small, metal, and click smoothly.",
